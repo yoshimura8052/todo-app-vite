@@ -32,5 +32,4 @@ https://yoshimura8052.github.io/todo-app-vite/
 ---
 
 ##  今後追加したい機能
-- ローカルストレージ保存
 - デザイン改善
