@@ -1,5 +1,36 @@
-# Vue 3 + Vite
+# Todo App (Vue + Vite)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Vue3 と Vite を使用して作成したシンプルなTodoアプリです。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+##  デモURL
+https://yoshimura8052.github.io/todo-app-vite/
+
+---
+
+##  使用技術
+- Vue 3
+- Vite
+- JavaScript
+- GitHub Pages
+
+---
+
+##  機能
+- タスクの追加
+- タスクの削除
+- 完了チェック機能
+- フィルター機能（すべて / 未完了 / 完了）
+- レスポンシブ対応
+
+---
+
+##  工夫した点
+- コンポーネント設計を意識
+- シンプルで見やすいUIを意識
+- 状態管理を整理して実装
+
+---
+
+##  今後追加したい機能
+- ローカルストレージ保存
+- デザイン改善
